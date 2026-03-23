@@ -30,7 +30,7 @@ nothing gets lost between sessions
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard-page.png)
 
 ### Job Boards
 ![Job Boards](screenshots/job-boards.png)
