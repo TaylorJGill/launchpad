@@ -1,4 +1,4 @@
-# 🌊 Launchpad — Personal Job Search Dashboard
+# Launchpad — Personal Job Search Dashboard
 
 A full-stack personal job search management platform built for 
 managing a climate and conservation-focused job search in one place.
