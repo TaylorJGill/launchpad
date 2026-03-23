@@ -22,6 +22,9 @@ applications from Saved → Applied → Interviewing → Offer → Rejected
 and professional profiles
 - **Documents** — Resume versions, cover letter templates, 
 and network contacts in one place
+- **Vision** — A personal space to develop project ideas and 
+builds geared toward my interests in conservation and technology. 
+Safe place to save ideas and work on them over time
 - **Data Persistence** — Save and load data locally so 
 nothing gets lost between sessions
 
